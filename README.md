@@ -73,11 +73,3 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-<details><summary> Github Stats </summary></details>  
-
-<br/>  
-
-
