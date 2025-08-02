@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaksh Devani</h1>
 <h3 align="center">A passionate Fullstack Developer - specialized in MERNstack and Nextjs. Fixing bugs & having fun.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaksh9737&label=Profile%20views&color=0e75b6&style=flat" alt="yaksh9737" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaksh9737" alt="yaksh9737" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://yakshdevani.vercel.app/](https://yakshdevani.vercel.app/)
 
 - 📝 Read my articles on [https://yakshdevani.framer.website/writing](https://yakshdevani.framer.website/writing)
@@ -25,8 +21,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yaksh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yaksh" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaksh9737&show_icons=true&locale=en&layout=compact" alt="yaksh9737" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaksh9737&show_icons=true&locale=en" alt="yaksh9737" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaksh9737&" alt="yaksh9737" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaksh9737&show_icons=true&locale=en&layout=compact" alt="yaksh9737" /></p>
